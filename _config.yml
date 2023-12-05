@@ -9,24 +9,24 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Calcutta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Chaitanya's Blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Hi, I procastinate here  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  This is just a example i am trying to create for my website
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://chaitanyakeshri.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: chaitanyakeshri # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -34,15 +34,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Chaitanya Keshri
+  email: chaitanya.keshri@iitb.ac.in # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/chaitanya_2472 # change to your twitter homepage
+    - https://github.com/chaitanyakeshri # change to your github homepage #linkedin 
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/chaitanyakeshri
 
 google_site_verification: # fill in to your verification string
 
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/D4D03AQHrw65kAdRl0A/profile-displayphoto-shrink_800_800/0/1700320445131?e=1707350400&v=beta&t=EWqUJiO74_yawkl5M7sBBJBNf3CoBwpYxOGo9vLYdL0
 
 # boolean type, the global switch for TOC in posts.
 toc: true
