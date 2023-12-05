@@ -26,4 +26,4 @@ for i in range(0,10):
     print("Hello World")
 ```
 ## Photos
-![Image description](https://images.unsplash.com/photo-1541747779418-3de4cf7ad445?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){: lqip="/path/to/lqip-file" }
+![Image description](https://images.unsplash.com/photo-1541747779418-3de4cf7ad445?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
