@@ -11,9 +11,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer aliquet vitae p
 > Example line for prompt.
 {: .prompt-tip}
 
----
-toc: false
----
 
 ## Military
 
